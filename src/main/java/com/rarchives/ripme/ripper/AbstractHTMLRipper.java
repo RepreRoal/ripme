@@ -16,7 +16,7 @@ import com.rarchives.ripme.ui.RipStatusMessage.STATUS;
 import com.rarchives.ripme.utils.Utils;
 import com.rarchives.ripme.ui.MainWindow;
 import com.rarchives.ripme.ui.RipStatusMessage;
-
+no
 /**
  * Simplified ripper, designed for ripping from sites by parsing HTML.
  */
